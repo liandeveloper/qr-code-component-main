@@ -260,6 +260,8 @@ El elemento con la clase `.info` tendrá un contenedor flexbox con elementos (hi
 
 ### Aprendizaje
 
+Al crear una página web, es fundamental utilizar HTML semántico para estructurar adecuadamente las partes del documento. Además, Flexbox simplifica la tarea de organizar los elementos en la página.
+
 ### Recursos
 
 - [Google Fonts](https://fonts.google.com/?preview.layout=grid) - Es una biblioteca gratuita de fuentes web que permite a los desarrolladores integrar tipografías variadas en sus sitios.
@@ -272,3 +274,5 @@ El elemento con la clase `.info` tendrá un contenedor flexbox con elementos (hi
 - X - [@lian_dev](https://x.com/lian_dev)
 
 ## Agradecimientos
+
+Gracias Frontend Mentor por tus retos que ayudan a mejorar la capacidad de desarrollar y diseñar páginas web.
