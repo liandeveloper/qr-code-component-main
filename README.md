@@ -262,6 +262,8 @@ The element with class `.info` will have a flexbox container with elements (chil
 
 ### What I learned
 
+When creating a web page, it is essential to use semantic HTML to properly structure the parts of the document. In addition, Flexbox simplifies the task of organizing the elements on the page.
+
 ### Useful resources
 
 - [Google Fonts](https://fonts.google.com/?preview.layout=grid) - It is a free library of web fonts that allows developers to integrate various fonts into their sites.
@@ -274,3 +276,5 @@ The element with class `.info` will have a flexbox container with elements (chil
 - X - [@lian_dev](https://x.com/lian_dev)
 
 ## Acknowledgments
+
+Thank you Frontend Mentor for your challenges that help to improve the ability to develop and design web pages.
