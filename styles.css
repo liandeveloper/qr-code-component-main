@@ -1,0 +1,83 @@
+:root {
+    /* Colors */
+    --White: hsl(0, 0%, 100%);
+    --Light-gray: hsl(212, 45%, 89%);
+    --Grayish-blue: hsl(220, 15%, 55%);
+    --Dark-blue: hsl(218, 44%, 22%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: .5rem 0;
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    background-color: var(--Light-gray);
+}
+
+a {
+    text-decoration: none;
+}
+
+/* ------------------------------------------------------ */
+
+/* *Main */
+.main {
+    width: 90%;
+    max-width: 330px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1rem 0;
+    background-color: var(--White);
+    box-shadow: 10px 10px 30px -15px #000;
+    overflow: hidden;
+    border-radius: 1rem;
+}
+
+/* *QR Image */
+.img {
+    width: 90%;
+    overflow: hidden;
+    border-radius: 1rem;
+}
+/* Image */
+.img img {
+    width: 100%;
+    display: block;
+}
+
+/* ------------------------------------------------------ */
+
+/* *QR Information */
+.info {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    text-align: center;
+}
+/* Title */
+.info h2 {
+    width: 95%;
+    color: var(--Dark-blue);
+}
+/* Description */
+.info h3 {
+    width: 100%;
+    font-weight: 400;
+    color: var(--Grayish-blue);
+}
