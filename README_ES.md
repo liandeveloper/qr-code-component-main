@@ -34,8 +34,8 @@ Cómo desarrollar una tarjeta de código QR con HTML y CSS.
 
 ### Enlaces
 
-- Solución URL: [Add solution URL here](https://your-solution-url.com)
-- Sitio Web URL: [Add live site URL here](https://your-live-site-url.com)
+- Solución URL: [Add solution URL here](https://github.com/liandeveloper/qr-code-component-main)
+- Sitio Web URL: [Add live site URL here](https://liandeveloper.github.io/qr-code-component-main/)
 
 ## Proceso
 
