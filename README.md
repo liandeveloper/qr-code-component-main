@@ -34,8 +34,8 @@ How to develoment a QR code card with HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/liandeveloper/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://liandeveloper.github.io/qr-code-component-main/)
+- Solution URL: [Download](https://github.com/liandeveloper/qr-code-component-main)
+- Live Site URL: [Watch](https://liandeveloper.github.io/qr-code-component-main/)
 
 ## My Process
 
